@@ -6,7 +6,7 @@ Java utilities and JUnit integration for [LocalStack](https://github.com/localst
 
 ## Prerequisites
 
-* Java 11
+* Java
 * Maven
 * Docker
 * LocalStack
